@@ -38,9 +38,21 @@
 
 /* mie soluzioni */
 
+/* es 1 */
 .ex-1-square {
     transition: 2s;
 }
 .ex-1-square:hover {
     background-color: red;
 }
+
+/* es 2 */
+.ex-2-square {
+    transition: 2s;
+}
+.ex-2-square:active {
+    width: 100%;
+}
+
+/* es 3 */
+
